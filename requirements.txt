@@ -1,0 +1,47 @@
+# Core LangChain packages
+langchain==0.3.26
+langchain-core==0.3.68
+langchain-community==0.3.27
+langchain-text-splitters==0.3.8
+
+# LangGraph for workflow orchestration
+langgraph==0.5.1
+langgraph-checkpoint==2.1.0
+langgraph-prebuilt==0.5.2
+langgraph-sdk==0.1.72
+
+# Web framework and UI
+streamlit==1.47.0
+plotly==6.2.0
+
+# AI/ML and embeddings
+google-generativeai>=0.8.3
+sentence-transformers==5.0.0
+tiktoken==0.9.0
+
+# Vector database
+chromadb==1.0.15
+
+# Document processing
+PyPDF2==3.0.1
+beautifulsoup4==4.12.3
+
+# Academic search
+google-search-results==2.4.2
+
+# HTTP and async
+requests==2.32.3
+aiohttp==3.11.11
+
+# Configuration and validation
+python-dotenv==1.0.1
+pydantic==2.11.7
+pydantic-settings==2.10.1
+
+# Utilities
+typing-extensions>=4.7
+python-multipart==0.0.20
+
+# Additional dependencies that may be needed
+pandas>=1.4.0
+numpy>=1.23
